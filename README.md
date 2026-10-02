@@ -1,28 +1,3 @@
-<!--
-   _____                               _ _     _   _                       
-  / ____|                             (_) |   | | | |                      
- | (___   __ _ _ __ _____   ___ __ _  _| |_   | |_| | __ _ _____ __ __ _   
-  \___ \ / _` | '_ ` _ \ \ / / '__| | | __|  |  _  |/ _` |_  / '__/ _` |  
-  ____) | (_| | | | | | \ V /| |  | | | |_   | | | | (_| |/ /| | | (_| |  
- |_____/ \__,_|_| |_| |_|\_/ |_|  |_|_|\__|  \_| |_/\__,_/___|_|  \__,_|  
-                                                                           
--->
-
-<div align="center">
-
-```text
- __________________________________________________________________
-/  "To be free is not merely to cast off one's chains,             \
-\   but to live in a way that respects and enhances the freedom    /
- \  of others."  — Software Freedom & Unix Philosophy              /
-  -----------------------------------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
-
 # `whoami` → Samvrit Hazra
 
 [![GNU/Linux](https://img.shields.io/badge/OS-GNU%2FLinux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org)
