@@ -75,17 +75,6 @@
 
 ---
 
-### `curl -s https://stats.samvrit.internal`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=samvrit-hazra&show_icons=true&theme=terminal&hide_border=true&title_color=4af626&text_color=ebdbb2&icon_color=4af626&bg_color=0f1419" alt="Samvrit's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samvrit-hazra&layout=compact&theme=terminal&hide_border=true&title_color=4af626&text_color=ebdbb2&bg_color=0f1419" alt="Top Languages" height="150" />
-
-</div>
-
----
-
 ### `find ~/contact -type connection`
 
 - 🔗 **Linktree:** [linktr.ee/samvrit](https://linktr.ee/samvrit)
