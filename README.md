@@ -16,17 +16,17 @@
 
 ---
 
-### `$ neofetch --ascii_distro debian`
+### `$ neofetch`
 
 ```ini
        _,met$$$$$gg.          samvrit@thinkbook
     ,g$$$$$$$$$$$$$$$P.       -----------------
-  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux / LMDE (x86_64)
+  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux (x86_64)
  ,$$P'              `$$$.     Host: ThinkBook
 ',$$P       ,ggs.     `$$b:   Kernel: 6.x preempt Linux
 `d$$'     ,$P"'   .    $$$    Shell: bash 5.x / POSIX sh
  $$P      d$'     ,    $$P    Editor: nano / vim
- $$:      $$.   -    ,d$$'    Ethos: FOSS • Unix Philosophy • Copyleft
+ $$:      $$.   -    ,d$$'    Ethos: FOSS • Unix Philosophy • Indie Web
  $$\;      Y$b._   _,d$P'     Interests: Systems, Entropy & Cryptography, Local AI
  Y$$.    `.`"Y$$$$P"'         Status: Building resilient, self-hosted tools
   `$$b      "-.__             Uptime: 24/7 in spirit
