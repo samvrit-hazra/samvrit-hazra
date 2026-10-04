@@ -29,7 +29,7 @@
  $$:      $$.   -    ,d$$'    Ethos: FOSS • Unix Philosophy • Indie Web
  $$\;      Y$b._   _,d$P'     Interests: Systems, Entropy & Cryptography, Local AI
  Y$$.    `.`"Y$$$$P"'         Status: Building resilient, self-hosted tools
-  `$$b      "-.__             Uptime: 24/7 in spirit
+  `$$b      "-.__             Uptime: 20 years
    `Y$$
     `$$$.
       `$$b.
@@ -81,5 +81,3 @@
 - 🗞️ **Hacker News:** [news.ycombinator.com/user?id=samvrit](https://news.ycombinator.com/user?id=samvrit)
 - ✉️ **Email:** `samvrit [at] zohomail.in`
 - 🌐 **GitHub:** [@samvrit-hazra](https://github.com/samvrit-hazra)
-
----
