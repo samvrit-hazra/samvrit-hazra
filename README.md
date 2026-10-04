@@ -83,7 +83,3 @@
 - 🌐 **GitHub:** [@samvrit-hazra](https://github.com/samvrit-hazra)
 
 ---
-
-<div align="center">
-  <sub><code>exit 0 /* May your uptime be high and your binaries free */</code></sub>
-</div>
